@@ -1,4 +1,6 @@
 // ### TYPESCRIPT 5.5 / DISCORD.JS INCOMPATIBILITY WORKAROUND
+// *** NOT CURRENTLY IN USE ***
+// https://github.com/discordjs/discord.js/issues/10358
 // ### Installs version of d.js with PR fix
 // 1. Unistall discord.js
 // npm uninstall discord.js
