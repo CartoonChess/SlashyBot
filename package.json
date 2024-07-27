@@ -1,0 +1,22 @@
+{
+  "name": "slashybot",
+  "version": "1.0.0",
+  "description": "discord bot using slash commands",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "discord-js",
+    "slash-commands",
+    "bot"
+  ],
+  "author": "CartoonChess",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "typescript": "^5.5.4"
+  }
+}
